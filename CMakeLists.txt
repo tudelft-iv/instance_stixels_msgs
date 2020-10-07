@@ -22,7 +22,7 @@ if(COMMAND cmake_policy)
     cmake_policy(SET CMP0003 NEW)
 endif(COMMAND cmake_policy)
 
-project(ros_instance_stixels_msgs)
+project(instance_stixels_msgs)
 
 # Optional, only for ros node
 find_package( catkin REQUIRED COMPONENTS # not required

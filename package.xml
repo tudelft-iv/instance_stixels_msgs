@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ros_instance_stixels_msgs</name>
+  <name>instance_stixels_msgs</name>
   <version>0.0.1</version>
   <description>
-      The ros_instance_stixels_msgs package defining the ROS message types for
+      The instance_stixels_msgs package defining the ROS message types for
       instance stixels.
   </description>
 
