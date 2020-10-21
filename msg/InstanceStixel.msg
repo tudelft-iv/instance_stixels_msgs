@@ -18,3 +18,5 @@ float32 instance_mean_v # estimated mean v position of instance
 int32 instance_id       # id per object instance within a class or -1
 
 float32[] vertices      # either 3D positions of 4 corners or empty
+# Vertex order: clockwise, i.e. top left, top right, bottom right, bottom left
+# -> 3 x 4 = 12 elements
